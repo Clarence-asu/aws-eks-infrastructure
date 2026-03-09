@@ -1,4 +1,4 @@
-# Kubernetes Milestone 6 — Rolling Updates & Scaling
+# Part 6 — Rolling Updates & Scaling
 
 This section covers rolling updates, scaling, and rollback operations performed on the EKS cluster deployment.
 
