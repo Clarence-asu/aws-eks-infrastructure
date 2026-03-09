@@ -274,6 +274,11 @@ Outputs:
     Value: !Ref NatGatewayA
     Export: { Name: !Sub '${EnvName}:NatGatewayId' }
 
+  PrivateSubnets:
+    Description: Private app subnets (comma-delimited) for EKS nodes
+    Value: !Sub '${AppSubnetA},${AppSubnetB}'
+    Export: { Name: !Sub '${EnvName}:PrivateSubnets' }
+
 
 
 
