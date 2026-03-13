@@ -1,4 +1,4 @@
-# AWS EKS Project
+# AWS EKS Infrastructure
 
 I built this project to get hands-on experience deploying a real Kubernetes environment on AWS from the ground up. Rather than just reading about how EKS works, I wanted to actually go through the process of setting up the networking, creating the cluster, deploying an app, and managing it — all the way through cleanup.
 
